@@ -1,0 +1,20 @@
+gun
+rifle
+machine gun
+grenade
+bomb
+chainsaw
+blade
+marksman
+submachine
+shotgun
+launcher
+pistol
+arms
+gauge
+magnum
+revolvers
+semi-automatic sniper rifle
+sniper
+samsung
+assault
