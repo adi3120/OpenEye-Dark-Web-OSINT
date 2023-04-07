@@ -8,6 +8,8 @@ To setup OpenEye on your system follow these steps
 - `git clone https://github.com/adi3120/OpenEye-Dark-Web-OSINT` : clone this git repository
 - `pip install -r requirements.txt` : Install PIP dependencies
 - `Enable tor service` : Enable tor service from terminal or by running tor browser in background
+- `install go lang` : Install Go Lang from the offical site( Needed for OnionScan )
+- `install OnionScan tool` : Visit and follow the instructions given there - https://github.com/s-rah/onionscan
 
 
 ## Usage
