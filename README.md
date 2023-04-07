@@ -2,6 +2,14 @@
 
 OpenEye is an OSINT (Open Source Intelligence) tool that allows you to fetch data from websites, perform keyword searches, analyze onion URLs, and more.
 
+## Setup
+
+To setup OpenEye on your system follow these steps
+- `git clone https://github.com/adi3120/OpenEye-Dark-Web-OSINT` : clone this git repository
+- `pip install -r requirements.txt` : Install PIP dependencies
+- `Enable tor service` : Enable tor service from terminal or by running tor browser in background
+
+
 ## Usage
 
 To use OpenEye, you can run the `openeye.py` script with various command line flags to perform different tasks
