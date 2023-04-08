@@ -26,7 +26,7 @@ if len(sys.argv)>1:
 	if sys.argv[1]=='-k':
 		if sys.argv[2]=='-r':
 			if sys.argv[3]:
-				with open(sys.argv[4],"r") as f:
+				with open(sys.argv[3],"r") as f:
 					for i in f:
 						usecases.keyword_search_analysis(i)
 		else:
@@ -38,7 +38,7 @@ if len(sys.argv)>1:
 	elif sys.argv[1]=='-s':
 		if sys.argv[2]=='-r':
 			if sys.argv[3]:
-				with open(sys.argv[4],"r") as f:
+				with open(sys.argv[3],"r") as f:
 					for i in f:
 						usecases.run_onionscan(i.split('.onion')[0]+'.onion')
 		else:
@@ -47,7 +47,7 @@ if len(sys.argv)>1:
 	elif sys.argv[1]=='-n':
 		if sys.argv[2]=='-r':
 			if sys.argv[3]:
-				with open(sys.argv[4],"r") as f:
+				with open(sys.argv[3],"r") as f:
 					for i in f:
 						usecases.run_onionscan(i.split('.onion')[0]+'.onion')
 		else:
