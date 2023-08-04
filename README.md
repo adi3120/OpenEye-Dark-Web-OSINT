@@ -52,3 +52,6 @@ To use OpenEye, you can run the `openeye.py` script with various command line fl
 
 - #### Show help
   - `python openeye.py -h`
+
+## Demo video
+- https://youtu.be/Abf6XUUpplE
